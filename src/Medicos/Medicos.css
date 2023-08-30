@@ -1,0 +1,83 @@
+
+.medicos {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+   body {
+    background-color: rgb(231, 237, 249);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    font-size: 16px;
+    margin: 2px;
+    margin-top: auto;
+  }
+  
+  .icon {
+    margin-right: 8px;
+    width: 20px;
+    height: 20px;
+  }
+
+  button {
+    display: flex;
+    justify-content: center;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px 20px;
+    margin-top: 10px;
+    align-items: center;
+  }
+  
+  button:hover {
+    background-color: #6e8bab;
+  }
+  
+  .list-button {
+    background-color: #28a745;
+    color: #ffffff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .list-button:hover {
+    background-color: #1a682c;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 600px) {
+    
+  }
+  

@@ -1,0 +1,46 @@
+.consultas {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px; 
+}
+
+input {
+  width: 100%; 
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+select {
+  width: 100%; 
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+button {
+  background-color: #007bff;
+  color: #ffffff; 
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+.li {
+  margin: 10px 0; 
+}
